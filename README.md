@@ -1,6 +1,6 @@
-## Evolunia Attribute Points Guide
+## Evolunia Guide
 
-### Table of Contents
+### Spawn Attribute Points
 - Floor 1:
   - [Coryms](https://github.com/Evolunia/Attributes/tree/main/1.%20Coryms)
   - [Dragons](https://github.com/Evolunia/Attributes/tree/main/2.%20Dragons)
